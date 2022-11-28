@@ -50,12 +50,9 @@ body {
 }
 
 .img {
-  background-color: #aaa;
   width: 100%;
   max-width: 200px;
-  max-height: 200px;
-  padding: 20px;
-  object-fit: contain;
+  height: auto;
 }
 
 .card {
