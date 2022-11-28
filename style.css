@@ -53,6 +53,7 @@ body {
   width: 100%;
   max-width: 200px;
   height: auto;
+  padding: 0px;
 }
 
 .card {
