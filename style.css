@@ -44,7 +44,7 @@ body {
 
 .leftcolumn_smaller {
   float: left;
-  width: 60%;
+  width: 70%;
 }
 
 .rightcolumn {
@@ -56,7 +56,7 @@ body {
 
 .rightcolumn_bigger {
   float: left;
-  width: 35%;
+  width: 30%;
   background-color: #f1f1f1;
   padding-left: 20px;
 }
