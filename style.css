@@ -52,6 +52,8 @@ body {
 .img {
   background-color: #aaa;
   width: 100%;
+  max-width: 200px;
+  max-height: 200px;
   padding: 20px;
   object-fit: contain;
 }
@@ -85,7 +87,7 @@ body {
   padding: 0 10px;
 }
 
-/* Footer */
+
 .footer {
   padding: 20px;
   text-align: center;
