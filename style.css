@@ -132,10 +132,6 @@ div.desc {
   text-align: center;
 }
 
-* {
-  box-sizing: border-box;
-}
-
 .galresponsive {
   padding: 0 6px;
   float: left;
