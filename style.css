@@ -63,6 +63,13 @@ body {
 
 .img {
   width: 100%;
+  max-width: 500px;
+  height: auto;
+  padding: 0px;
+}
+
+.profile {
+  width: 100%;
   max-width: 200px;
   height: auto;
   padding: 0px;
