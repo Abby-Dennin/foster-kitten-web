@@ -113,13 +113,15 @@ body {
   margin-top: 20px;
 }
 
-
 div.gallery {
+  margin: 5px;
   border: 1px solid #ccc;
+  float: left;
+  width: 180px;
 }
 
 div.gallery:hover {
-  border: 1px solid #777
+  border: 1px solid #777;
 }
 
 div.gallery img {
@@ -130,12 +132,6 @@ div.gallery img {
 div.desc {
   padding: 15px;
   text-align: center;
-}
-
-.galresponsive {
-  padding: 0 6px;
-  float: left;
-  width: 24.9999%;
 }
 
 @media screen and (max-width: 800px) {
@@ -196,14 +192,6 @@ div.desc {
   background-color: #555555;
   color: white;
   text-decoration: none;
-}
-
-.grid-container {
-  display: grid; 
-  align-content: space-between;
-  grid-template-columns: auto auto auto;
-  gap: 5px;
-  padding: 5px;
 }
 
 .clearfix:after {
