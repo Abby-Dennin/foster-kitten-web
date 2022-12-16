@@ -178,6 +178,14 @@ div.desc {
 
 }
 
+.grid-container {
+  display: grid; 
+  align-content: space-between;
+  grid-template-columns: auto auto auto;
+  gap: 5px;
+  padding: 5px;
+}
+
 .clearfix:after {
   content: "";
   display: table;
